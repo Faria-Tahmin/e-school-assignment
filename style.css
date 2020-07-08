@@ -4,14 +4,15 @@ body{
 }
 .container{
     margin-bottom: 200px;
-    size: 500px;
+    
        
 }
 
 .home{
     
 width: 100%;
-height: 576px;
+height: 100%;
+margin: auto;
 
 
 background: #F0FFF0;
@@ -20,7 +21,7 @@ background: #F0FFF0;
     
 
 position: absolute;
-width: 198.07px;
+width:15%;
 height: 59px;
 left: 160px;
 top: 30px;
@@ -63,8 +64,8 @@ padding: 0px 20px;
 
 }
 .bg{
-    width:100%;
-    height:350px;
+    width:80%;
+    height: 80%;
 }
 .front-para{
     font-size: medium;
@@ -187,12 +188,10 @@ line-height: 30px;
     .container-final{
         position: absolute;
 width: 100%;
-height: 369px;
+height: 60%;
 left: 0px;
 color:white;
 text-align: left;
-
-
 background-color: #282531;
     }
     .final1{
